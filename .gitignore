@@ -14,3 +14,4 @@ certificate/
 ## Jupyter temporary files
 .ipynb_checkpoints/
 .virtual_documents/
+.idea/
