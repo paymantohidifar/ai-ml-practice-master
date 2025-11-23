@@ -1,4 +1,5 @@
 # Week 2: Recommender Systems
+
 ---
 
 ## Table of Contents
@@ -124,13 +125,10 @@ $$
 ### Next Step
 The next section will address a generalization of this model to systems using binary labels (e.g., like/dislike) instead of continuous star ratings.
 
-<br>
-
-## 4. Binary labels: favs, likes and clicks
-
+## Binary labels: favs, likes and clicks
+---
 This section explains how to adapt the collaborative filtering algorithm from predicting continuous ratings (like 1–5 stars) to predicting **binary labels** (like/dislike, purchase/not purchase), using a method analogous to moving from linear regression to logistic regression.
 
----
 ### Binary Label Context
 Many recommender systems deal with binary labels (1 or 0) rather than star ratings.
 
@@ -158,10 +156,3 @@ $$J(\mathbf{w}, \mathbf{b}, \mathbf{x}) = \sum_{(i, j): r(i, j)=1} L(f(x^{(i)}),
 
 ### Generalization
 This generalization significantly opens up the set of applications that can be addressed by collaborative filtering, allowing the algorithm to work with implicit feedback (like clicks or viewing time) rather than requiring explicit user ratings.
-
-<br>
-
-
-```python
-
-```
