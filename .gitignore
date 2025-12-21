@@ -16,3 +16,6 @@ certificate/
 .ipynb_checkpoints/
 .virtual_documents/
 .idea/
+
+## VS Code saved files
+*.code-workspace
