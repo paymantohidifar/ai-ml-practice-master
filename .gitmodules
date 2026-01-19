@@ -1,0 +1,3 @@
+[submodule "deep-learning-specialization-coursera"]
+	path = deep-learning-specialization-coursera
+	url = git@github.com:paymantohidifar/deep-learning-specialization-coursera.git
