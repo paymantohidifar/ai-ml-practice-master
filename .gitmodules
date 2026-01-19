@@ -1,3 +1,6 @@
 [submodule "deep-learning-specialization-coursera"]
 	path = deep-learning-specialization-coursera
 	url = git@github.com:paymantohidifar/deep-learning-specialization-coursera.git
+[submodule "ml-specialization-coursera"]
+	path = ml-specialization-coursera
+	url = git@github.com:paymantohidifar/ml-specialization-coursera.git
